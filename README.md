@@ -1,1 +1,1 @@
-![imaggine Demo-1](CattureIngSw/Demo_1.png)
+![imaggine Demo-1](Demo_1.png)
